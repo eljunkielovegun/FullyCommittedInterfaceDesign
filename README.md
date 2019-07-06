@@ -8,6 +8,6 @@ Documentation of the interfaces designed and built for the sound design of Fully
 <br>
 <img src="img/InsideEnclosure.jpg" width = "700"></img> <br>
 <br>
-<img src="img/PowerCircuit.jpg" width = "700"></img> <br>
+<img src="img/PowerCircuit.jpeg" width = "700"></img> <br>
 <br>
-<img src="img/Feather.jpg" width = "700"></img> <br>
+<img src="img/Feather.jpeg" width = "700"></img> <br>
