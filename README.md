@@ -13,8 +13,16 @@ Documentation of the interfaces designed and built for the sound design of Fully
 <img src="img/Feather.jpeg" width = "700"></img> <br>
 
 <H2>The wired buttons communicates to QLab through MIDI using noteon messages on the notes: 60,70,80</H2><br>
-Right now this requires a Max/MSP patch to be running in te background. You will need to select the correct serial interface (pull down menu) and double click on the midiout obect to select Qlab. You can monitor midi input in the Qlab status window
 <br>
 <img src="img/WiredInterFace.jpg" height = "300"></img> 
 <img src="img/TwoButton.jpg" height = "300"></img> 
 <img src="img/OneButton.jpg" height ="300"></img> <br>
+
+Right now this requires a Max/MSP patch to be running in the background. You can monitor midi input in the Qlab status window
+<br>
+ You will need to select the correct serial interface (pull down menu)
+<img src="img/SelectSerialPort.png" width ="500"></img> <br>
+Double click on the midiout obect to select Qlab
+<img src="img/SelectMidiOut.png"  width ="500"></img> <br>
+
+
